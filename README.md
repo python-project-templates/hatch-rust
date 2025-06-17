@@ -2,7 +2,7 @@
 
 Hatch plugin for Rust
 
-[![Build Status](https://github.com/python-project-templates/hatch-rust/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/hatch-rust/actions/workflows/build.yml)
+[![Build Status](https://github.com/python-project-templates/hatch-rust/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/hatch-rust/actions/workflows/build.yaml)
 [![codecov](https://codecov.io/gh/python-project-templates/hatch-rust/branch/main/graph/badge.svg)](https://codecov.io/gh/python-project-templates/hatch-rust)
 [![License](https://img.shields.io/github/license/python-project-templates/hatch-rust)](https://github.com/python-project-templates/hatch-rust)
 [![PyPI](https://img.shields.io/pypi/v/hatch-rust.svg)](https://pypi.python.org/pypi/hatch-rust)
