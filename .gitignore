@@ -139,10 +139,13 @@ js/dist
 js/lib
 js/node_modules
 js/*.tgz
+hatch_rust/extension
 
 # Jupyter
 .ipynb_checkpoints
 .autoversion
+!hatch_rust/extension/hatch_rust.json
+!hatch_rust/extension/install.json
 hatch_rust/nbextension
 hatch_rust/labextension
 
