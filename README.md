@@ -8,6 +8,7 @@ Hatch plugin for Rust
 [![PyPI](https://img.shields.io/pypi/v/hatch-rust.svg)](https://pypi.python.org/pypi/hatch-rust)
 
 ## Overview
+
 Wrapper for [hatch-rs](https://github.com/python-project-templates/hatch-rs)
 
 > [!NOTE]
