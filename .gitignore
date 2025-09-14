@@ -146,6 +146,7 @@ hatch_rust/extension
 # Jupyter
 .ipynb_checkpoints
 .autoversion
+Untitled*.ipynb
 !hatch_rust/extension/hatch_rust.json
 !hatch_rust/extension/install.json
 hatch_rust/nbextension
